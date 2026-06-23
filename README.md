@@ -568,6 +568,4 @@ MIT License — free to use, modify, and distribute.
 
 <div align="center">
 
-Made with ❤️ · If this helped you, give it a ⭐
-
 </div>
